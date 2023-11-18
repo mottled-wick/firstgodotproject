@@ -4,9 +4,9 @@ makes it easier follow what I am currently doing + need to do + have done
 ********************
 unresolved issues
 ************************************
-- issue_1 make project file in godot
 - issue_2 follow tutorial till completion might make more issues depending on length
 
 *******************
 resolved issues
 ************************************
+- issue_1 make project file in godot
